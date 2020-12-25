@@ -1,0 +1,22 @@
+ _ _|         \       \  |     __  /    _ \     \  |   __ )   _ _|   ____| 
+   |         _ \     |\/ |        /    |   |   |\/ |   __ \     |    __|   
+   |        ___ \    |   |       /     |   |   |   |   |   |    |    |     
+ ___|     _/    _\  _|  _|     ____|  \___/   _|  _|  ____/   ___|  _____| 
+                                                                           
+			    By CabCon & NzV
+
+
+
+
+
+
+
+
+
+Hello, I´m CabCon ! 
+
+Inject Methods: 
+- GSCR with GSC Studio
+- GSC Inject PC to maps/mp/gametypes_zm/_clientids.gsc
+- GSC Inject Xbox/Ps3 to maps/mp/gametypes_zm/_clientids.gsc
+I HAVE PREPARED THE FOLDER !
